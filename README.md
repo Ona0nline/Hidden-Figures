@@ -11,3 +11,5 @@ This kata is meant to work on test doubles. But it can also be solved without th
 2. If the user guesses the number the player wins.
 3. If the user does not guess the number the system would have to notify the user if the number it's higher or lower.
 4. If the user does not guess the number on three intents it will lose.
+
+Write a python program to satisfy these conditions and subsequently write tests for it. You have creative freedom.
